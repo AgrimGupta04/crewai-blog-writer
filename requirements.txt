@@ -1,0 +1,17 @@
+crewai
+crewai-tools
+python-dotenv
+langchain
+langchain-community
+langchainhub
+langchain-huggingface
+langchain-openai
+transformers
+sentence-transformers
+torch 
+gradio
+markdown2
+pdfkit
+yt_dlp==2023.11.14
+youtube-transcript-api==0.6.1
+google-api-python-client
